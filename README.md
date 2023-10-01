@@ -405,7 +405,7 @@ The `Order` class defines the structure for order data and includes fields such 
 
 ArrayLists can be used to represent lists of items in your application. For example, you can use an ArrayList to represent a list of order items in an order.
 
-### Project Summary
+## Project Summary
 
 The E-commerce API Application is a comprehensive Spring Boot application designed to serve as the backend for an e-commerce platform. It offers a wide range of RESTful API endpoints for user management, product management, order processing, and more.
 
