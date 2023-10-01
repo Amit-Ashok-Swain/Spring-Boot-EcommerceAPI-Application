@@ -385,7 +385,7 @@ You can create these tables in your database using SQL or an ORM tool like Hiber
 
 
 
-### Data Structures Used
+## Data Structures Used
 
 The project utilizes the following data structures:
 
